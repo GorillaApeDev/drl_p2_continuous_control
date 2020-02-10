@@ -1,0 +1,4 @@
+Reacher.app/
+venv/
+__pycache__/
+unity_environment.log
