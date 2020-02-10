@@ -66,7 +66,7 @@ Below is a plot of the average reward of the 20 agents per episode. The environm
 The learning algorithm could be improved by:
 * Try different hyperparameters:
     * Try different values for `LR_ACTOR` and `LR_CRITIC`, the learning rate of the neural networks. Experiment with update schemes for the learning rate, instead of keeping it constant.
-    * Try different update schemes for `epsilon` (epsilon) with different values for `EPSILON` and `EPSILON_DECAY`.
+    * Try different update schemes for `epsilon` with different values for `EPSILON` and `EPSILON_DECAY`.
 * Try different architecture for the neural networks:
     * Try different activation functions.
     * Try different number of layers and number of activation units in the neural networks.
